@@ -1,0 +1,11 @@
+C:\Users\silas\source\repos\ReadExcel\Domain\bin\Debug\net5.0\Domain.ReadExcel.deps.json
+C:\Users\silas\source\repos\ReadExcel\Domain\bin\Debug\net5.0\Domain.ReadExcel.dll
+C:\Users\silas\source\repos\ReadExcel\Domain\bin\Debug\net5.0\ref\Domain.ReadExcel.dll
+C:\Users\silas\source\repos\ReadExcel\Domain\bin\Debug\net5.0\Domain.ReadExcel.pdb
+C:\Users\silas\source\repos\ReadExcel\Domain\obj\Debug\net5.0\Domain.ReadExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silas\source\repos\ReadExcel\Domain\obj\Debug\net5.0\Domain.ReadExcel.AssemblyInfoInputs.cache
+C:\Users\silas\source\repos\ReadExcel\Domain\obj\Debug\net5.0\Domain.ReadExcel.AssemblyInfo.cs
+C:\Users\silas\source\repos\ReadExcel\Domain\obj\Debug\net5.0\Domain.ReadExcel.csproj.CoreCompileInputs.cache
+C:\Users\silas\source\repos\ReadExcel\Domain\obj\Debug\net5.0\Domain.ReadExcel.dll
+C:\Users\silas\source\repos\ReadExcel\Domain\obj\Debug\net5.0\ref\Domain.ReadExcel.dll
+C:\Users\silas\source\repos\ReadExcel\Domain\obj\Debug\net5.0\Domain.ReadExcel.pdb

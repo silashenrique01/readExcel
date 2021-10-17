@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadExcel", "ReadExcel\ReadExcel.csproj", "{44E71E00-7998-40B8-BD3C-7B7BC7D233E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.ReadExcel", "Domain\Domain.ReadExcel.csproj", "{EEC920BD-37B9-4AA9-9B41-922AC1A7E3AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{E75FD566-9F60-485D-AD35-B0DD8D39BAE5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{B6DA94A8-AB88-4964-9B5F-B09A774E7A31}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{AA9472C2-3FC1-476B-A974-E9CD1AE92DD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44E71E00-7998-40B8-BD3C-7B7BC7D233E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E71E00-7998-40B8-BD3C-7B7BC7D233E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E71E00-7998-40B8-BD3C-7B7BC7D233E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E71E00-7998-40B8-BD3C-7B7BC7D233E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC920BD-37B9-4AA9-9B41-922AC1A7E3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC920BD-37B9-4AA9-9B41-922AC1A7E3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC920BD-37B9-4AA9-9B41-922AC1A7E3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC920BD-37B9-4AA9-9B41-922AC1A7E3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{44E71E00-7998-40B8-BD3C-7B7BC7D233E2} = {E75FD566-9F60-485D-AD35-B0DD8D39BAE5}
+		{EEC920BD-37B9-4AA9-9B41-922AC1A7E3AB} = {B6DA94A8-AB88-4964-9B5F-B09A774E7A31}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AD81DA0-33B1-4891-BB8E-C063E3A6B05D}
+	EndGlobalSection
+EndGlobal
